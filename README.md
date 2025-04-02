@@ -7,27 +7,22 @@ Wireframes
 Schema
 Overview
 Description
-[Description of your app]
+[Movie Review App allows users to review and rate movies that have been watched.]
 
 App Evaluation
 [Evaluation of your app across the following attributes]
 
-Category:
-Mobile:
-Story:
+2. Movie Review App
+Story: The app allows users to a movie review after watching a movie and discovery experience, making it easy for users to find, review, and discuss films in an engaging way.
+
 Market:
-Habit:
+The movie industry has a huge global audience, with millions of movie audiences.
+
+Habit:Users would frequently return to check reviews, log their movie experiences, and engage in discussions.
 Scope:
-Product Spec
-1. User Stories (Required and Optional)
-Required Must-have Stories
+The core features focuses on reviews and ratings would still be valuable and interesting.
 
-[fill in your required user stories here]
-...
-Optional Nice-to-have Stories
 
-[fill in your required user stories here]
-...
 2. Screen Archetypes
 [list first screen here]
 [list associated required story here]
