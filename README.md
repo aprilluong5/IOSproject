@@ -1,60 +1,56 @@
-# IOSproject - README Template
+# Movie Review App
 
-Table of Contents
-Overview
-Product Spec
-Wireframes
-Schema
-Overview
-Description
-[Movie Review App allows users to review and rate movies that have been watched.]
+## Overview
+### Description
+Movie Review App allows users to review and rate movies they have watched. Users can discover new movies, share their thoughts, and engage in discussions with other movie enthusiasts. The app provides an intuitive platform for logging movie experiences and exploring user-generated reviews.
 
-App Evaluation
-[Evaluation of your app across the following attributes]
+### App Evaluation
+**Mobile:** The app is designed for mobile use, ensuring a seamless experience on phones and tablets.
 
-2. Movie Review App
-Story: The app allows users to a movie review after watching a movie and discovery experience, making it easy for users to find, review, and discuss films in an engaging way.
+**Story:** Users can log their movie experiences by submitting reviews and ratings, making it easy for others to discover new films based on authentic user opinions.
 
-Market:
-The movie industry has a huge global audience, with millions of movie audiences.
+**Market:** The movie industry has a massive global audience, making this app relevant for millions of users who seek reliable movie reviews and discussions.
 
-Habit:Users would frequently return to check reviews, log their movie experiences, and engage in discussions.
-Scope:
-The core features focuses on reviews and ratings would still be valuable and interesting.
+**Habit:** Users will frequently return to check reviews, log their movie-watching history, and participate in discussions about films.
 
+**Scope:** The core features focus on reviews and ratings, ensuring a valuable user experience while keeping the app manageable and efficient.
 
-2. Screen Archetypes
-[list first screen here]
-[list associated required story here]
-... list second screen here]
-[list associated required story here]
-...
-3. Navigation
-Tab Navigation (Tab to Screen)
+---
 
-[fill out your first tab]
-[fill out your second tab]
-[fill out your third tab]
-Flow Navigation (Screen to Screen)
+## Product Specification
+### A. User Features
+#### Required Features
+1. **User Authentication** – Users can sign up, log in.
+2. **Movie Reviews & Ratings** – Users can submit text reviews and star ratings for movies.
+3. **Movie Discovery** – Users can search for and browse movies to read existing reviews.
 
-[list first screen here]
-[list screen navigation here]
-...
-[list second screen here]
-[list screen navigation here]
-...
-Wireframes
-[Add picture of your hand sketched wireframes in this section] 
+## Optional Features
 
-[BONUS] Digital Wireframes & Mockups
-[BONUS] Interactive Prototype
-Schema
-[This section will be completed in Unit 9]
+Social Features – Users can follow other reviewers and see their movie activity.
+---
 
-Models
-[Add table of models]
+### B. Screen Archetypes
+1. **Login/Signup Screen** – Allows users to create an account or log in.
+2. **Home Screen** – Displays trending and latest movie reviews.
+3. **Movie Details Screen** – Shows information about a selected movie, including user reviews.
+4. **Review Submission Screen** – Enables users to submit reviews and ratings.
 
-Networking
-[Add list of network requests by screen ]
-[Create basic snippets for each Parse network request]
-[OPTIONAL: List endpoints if using existing API such as Yelp]
+---
+
+### C. Navigation Flow
+#### **Tab Navigation**
+- **Home** – Displays trending and latest reviews.
+- **Search** – Allows users to search for movies.
+- **Profile** – Shows user to sign out and show history reviews.
+
+#### **Flow Navigation**
+1. **Login/Signup Screen** → Home Screen
+2. **Home Screen** → Movie Details Screen
+3. **Movie Details Screen** → Review Submission Screen
+4. **Profile Screen** → User Reviews List
+5. **Search Screen** → Movie Details Screen
+
+---
+
+## Wireframes
+
