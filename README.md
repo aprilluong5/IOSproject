@@ -46,7 +46,7 @@ Social Features – Users can follow other reviewers and see their movie activit
 #### **Flow Navigation**
 1. **Login/Signup Screen** → Home Screen
 2. **Home Screen** → Movie Details Screen
-3. **Movie Details Screen** → Review Submission Screen
+3. **Movie Details Screen** → Review Screen
 4. **Profile Screen** → User Reviews List
 5. **Search Screen** → Movie Details Screen
 
