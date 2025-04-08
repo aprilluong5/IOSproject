@@ -53,8 +53,10 @@ Social Features – Users can follow other reviewers and see their movie activit
 ---
 
 ## Wireframes
-<img src="https://raw.githubusercontent.com/aprilluong5/IOSproject/main/IMG_3431.jpg" alt="My Image">
-<img src= "https://raw.githubusercontent.com/aprilluong5/IOSproject/main/IMG_3435.jpg" alt="My Image">
-<img src= "https://raw.githubusercontent.com/aprilluong5/IOSproject/main/aa.jpg" alt="My Image">
+![alt-text](1.png)
+![alt-text](2.png)
+![alt-text](3.png)
+
+
 
 
