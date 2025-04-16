@@ -32,14 +32,14 @@ Review History - Users can see their previous reviews.
 ---
 
 ### B. Screen Archetypes
-1. **Home Screen** – Displays trending and latest movie reviews.
+1. **Home Screen** – Displays trending movies.
 2. **Movie Details Screen** – Shows information about a selected movie.
 3. **Review Submission Screen** – Enables users to submit reviews and ratings.
 
 ---
 
 ### C. Navigation Flow
-- **Home** – Displays trending and latest reviews.
+- **Home** – Displays trending movies.
 - **Search** – Allows users to search for movies.
 - **Movie Detail** - Display information
 - **Reviews** - Allows users to review and rate.
