@@ -28,6 +28,7 @@ Movie Review App allows users to review and rate movies they have watched. Users
 
 Social Features – Users can follow other reviewers and see their movie activity.
 Users Authentication - Users can sign up and log in. 
+Review History - Users can see their previous reviews.
 ---
 
 ### B. Screen Archetypes
