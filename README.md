@@ -53,9 +53,8 @@ Social Features – Users can follow other reviewers and see their movie activit
 ---
 
 ## Wireframes
-![alt-text](1.png)
-![alt-text](2.png)
-![alt-text](3.png)
+![alt-text](WireframesMovie.jpg)
+
 
 
 
