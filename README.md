@@ -54,7 +54,15 @@ Review History - Users can see their previous reviews.
 ## Wireframes
 ![alt-text](WireframesMovie.jpg)
 
-
+## Video Walkthrough 
+<div>
+    <a href="https://www.loom.com/share/1abb066ce0fd461183d8794f10cf1dc0">
+      <p>Movie Review App Overview - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/1abb066ce0fd461183d8794f10cf1dc0">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/1abb066ce0fd461183d8794f10cf1dc0-30734d5da82e9571-full-play.gif">
+    </a>
+  </div>
 
 
 
