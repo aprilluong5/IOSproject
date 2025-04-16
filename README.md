@@ -2,7 +2,7 @@
 
 ## Overview
 ### Description
-Movie Review App allows users to review and rate movies they have watched. Users can discover new movies, share their thoughts. The app provides an intuitive platform for movie experiences and exploring user-generated reviews.
+Movie Review App allows users to review and rate movies they have watched. Users can discover new movies, share their thoughts. The app provides an intuitive platform for movie experiences and exploring movie details with overall reviews.
 
 ### App Evaluation
 **Mobile:** The app is designed for mobile use, ensuring a seamless experience on phones and tablets.
@@ -20,7 +20,7 @@ Movie Review App allows users to review and rate movies they have watched. Users
 ## Product Specification
 ### A. User Features
 #### Required Features
-1. **Movie Details** – Users can look at movie details.
+1. **Movie Details** – Users can look at movie details including movie title, release dates and overall review score.
 2. **Movie Reviews & Ratings** – Users can submit text reviews and rating for movies.
 3. **Movie Discovery** – Users can search movies.
 
